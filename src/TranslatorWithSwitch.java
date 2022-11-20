@@ -47,7 +47,7 @@ public class TranslatorWithSwitch {
                 break;
             }
             default: {
-                System.out.println("У данному українсько-англійському перекладачі такого слова немає");
+                System.out.println("У даному українсько-англійському перекладачі такого слова немає");
                 break;
             }
         }
